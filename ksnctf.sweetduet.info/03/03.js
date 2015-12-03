@@ -19,4 +19,4 @@ var p = Array(70, 152, 195, 284, 475, 612, 791, 896, 810, 850, 737, 1332, 1469, 
 for (var i = 0; i < p.length; i++) {
     text += String.fromCharCode(p[i] / (i + 1));
 }
-console.log(text);%
+console.log(text);
